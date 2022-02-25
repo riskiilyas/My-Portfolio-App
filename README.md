@@ -1,2 +1,2 @@
 # My-Portfolio-App
-My portfolio v1
+My portfolio v1 with Jetpack Compose
