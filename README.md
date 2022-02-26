@@ -1,5 +1,5 @@
 # My-Portfolio-App
-This is my first jetpack compose app that i have learned on udemy course. This app is simply my portfolio app
+My #1 jetpack compose app that i have learned on udemy course. This app is simply my portfolio app
 
 ## Screenshots
 <p>
